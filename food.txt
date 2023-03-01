@@ -1,0 +1,10 @@
+#bread
+brioche
+whitebread
+french bread
+baguette
+
+#fastfood
+pizza
+hamburger
+hot pocket
